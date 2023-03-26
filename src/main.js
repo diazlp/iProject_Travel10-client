@@ -15,7 +15,7 @@ import "@egjs/vue3-flicking/dist/flicking-inline.css";
 
 export function BASE_URL() {
   return process.env.NODE_ENV === "production"
-    ? "https://travel10-iproject-app.herokuapp.com"
+    ? "https://diamond-statuesque-peony.glitch.me/"
     : "http://localhost:3000";
 }
 
